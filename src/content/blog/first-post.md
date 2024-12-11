@@ -1,16 +1,52 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
+title: 'Kiran Pratibha 2024 Registrations Open'
+description: 'Inviting applications for Kiran Pratibha Scholarship 2024. All young achievers, please note that 30th April 2024, is the last date to your submit application.'
 pubDate: 'Jul 08 2022'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: 'https://www.kiran.foundation/images/posts/pratibha_2024.png'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Kiran Foundation will offer “Kiran Pratibha” Scholarship and Support for exceptional and underprivileged youth in their endeavours of Education, Sports or Art according to their interest and abilities. The Foundation will be offering active guidance and personalised mentoring alongwith Financial Support. The sole aim of the Foundation is to make them capable and successful. Application is now open for Kiran Pratibha 2024, last date of submitting application is 30th April 2024.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+<h5>Eligibility Criteria:</h5>
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+<ul>
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+<li>Student should have passed 8th Standard or should be above 14 years.</li>
+<li>Student should have shown enormous potential in his/her field of interest.</li>
+<li>Monthly income of the Family should be less than Rs. 20,000.</li>
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+</ul>
+
+<h5>Please send the application alongwith the following details:</h5>
+
+<ul>
+
+<li>Personal details of the student. (Name, Address, Contact number, Date of birth, Qualification)</li>
+<li>Details of parents. (Mother and Father including their occupation)</li>
+<li>Mention the reason for this scholarship to be given to the student.</li>
+
+</ul>
+
+<h5>Please send the following documents alongwith the Application:</h5>
+
+<ul>
+
+<li>Attested photocopies of Last three years mark sheets.</li>
+<li>Attested photocopies of certificates of achievements if any.</li>
+<li>Recommendation letter from two independent people associated with student ( alongwith the phone number, email, address of the person Recommending)</li>
+<li>Copy of Aadhar Card and Samagra ID.</li>
+<li>Passport size photo.</li>
+
+</ul>
+
+If you know any such student who is eligible and can benefit from this scholarship, please encourage them also to apply.
+
+
+NOTE: We have started the selection process and our team will reach out to you for further information.
+
+<ul>
+
+<li>Announcement of selected students for interview: 15th May 2024.</li>
+<li>Announcement of selected students for scholarship: 2nd June 2024.</li>
+
+<ul>
