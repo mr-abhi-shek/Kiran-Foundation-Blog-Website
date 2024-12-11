@@ -1,11 +1,16 @@
 ---
-import HeaderLink from './HeaderLink.astro';
-import { SITE_TITLE } from '../consts';
+import HeaderLink from "./HeaderLink.astro";
+import { SITE_TITLE } from "../consts";
 ---
 
 <header>
 	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
+		<img
+			alt="logo"
+			width="50"
+			height="25"
+			src="https://media.licdn.com/dms/image/v2/D4E0BAQFuGEw0cN5cnQ/company-logo_200_200/company-logo_200_200/0/1712807454234/kirantrust_logo?e=1741824000&v=beta&t=TRflht_-F_uCrLEkxb-VreA1e13FS5iJ4F1VM5vn0AE"
+		/>
 		<div class="internal-links">
 			<HeaderLink href="/">Home</HeaderLink>
 			<HeaderLink href="/blog">Blog</HeaderLink>
@@ -13,7 +18,8 @@ import { SITE_TITLE } from '../consts';
 		</div>
 		<div class="social-links">
 			<a href="https://www.instagram.com/kiran_trust/" target="_blank">
-				<span class="sr-only">Follow Kiran Foundation on instagram</span>
+				<span class="sr-only">Follow Kiran Foundation on instagram</span
+				>
 				<svg
 					viewBox="0 0 24 24"
 					aria-hidden="true"
