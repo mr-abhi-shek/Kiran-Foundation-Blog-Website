@@ -14,10 +14,38 @@ The **Kiran Foundation Blog Website** is a dynamic and user-friendly blog platfo
 - **Framework**: [Astro](https://astro.build/)  
 - **Styling**: HTML5, CSS3  
 - **Languages**: JavaScript  
-- **Hosting**: Deployed on [Netlify/Vercel/etc.] (update as applicable)  
+- **Hosting**: Deployed on [https://kiran-foundation.netlify.app/blog/]
 
 ## 🎨 Design Philosophy  
 The website is designed to reflect the foundation's values and mission, ensuring a clean and intuitive user experience.  
+
+## 🛠️ Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/mr-abhi-shek/Kiran-Foundation-Blog-Website.git
+   
+2. Navigate to the project directory:
+   ```bash
+   cd Kiran-Foundation-Blog-Website
+
+3. Install required dependencies:
+   ```bash
+   npm install
+
+4. Start the development server:
+   ```bash
+   npm run dev
+
+5. The website will be live at http://localhost:3000/
+
+## 🌟 Contributions
+Contributions are welcome! If you'd like to improve this project, feel free to fork the repository, make your changes, and submit a pull request.
+
+## 🤝 Acknowledgments
+Thanks to the Kiran Foundation for inspiring this project.
+Built with ❤️ using the Astro Framework.
+
 
 ## 📂 Project Structure  
 ```plaintext
@@ -30,3 +58,4 @@ The website is designed to reflect the foundation's values and mission, ensuring
 ├── public/           # Static assets
 ├── astro.config.mjs  # Astro configuration
 └── package.json      # Dependencies and scripts
+
