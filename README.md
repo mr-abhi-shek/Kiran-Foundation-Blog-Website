@@ -35,7 +35,7 @@ The website is designed to reflect the foundation's values and mission, ensuring
    ```bash
    npm run dev
 
-5. The website will be live at http://localhost:3000/
+5. The website will be live at localhost
 
 ## 🌟 Contributions
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository, make your changes, and submit a pull request.
