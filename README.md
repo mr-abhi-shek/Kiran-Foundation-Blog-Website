@@ -1,6 +1,6 @@
 # Kiran Foundation Blog Website  
 
-![Kiran Foundation Banner](path-to-banner-image)  
+![Kiran Foundation Banner]([(https://www.kiran.foundation/)])  
 
 The **Kiran Foundation Blog Website** is a dynamic and user-friendly blog platform built using the **Astro Framework**. It serves as a digital space for Kiran Foundation to share its initiatives, articles, and updates effectively.  
 
